@@ -12,6 +12,7 @@ In this repo, you will find the requested files for the Fetch Rewards Analytics 
 1. Data model diagram: [Fetch_DB_ERD.pdf](../main/Fetch_DB_ERD.pdf)
 2. Queries to answer business questions are built from tables defined in the file [Fetch_DDL.sql](../main/Fetch_DDL.sql). The business question queries are in the file [Fetch_Business_Questions.sql](../main/Fetch_Business_Questions.sql).
 3. Some data quality exploration queries are in the file [Fetch_Data_Quality.sql](../main/Fetch_Data_Quality.sql).
+4. An email to the stakeholder can be found here: [Stakeholder Email](../main/Stakeholder_Email.pdf)
 
 
 ## Notes
