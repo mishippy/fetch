@@ -16,4 +16,3 @@ In this repo, you will find the requested files for the Fetch Rewards Analytics 
 
 ## Notes
 All SQL was written for Snowflake.
-There is DDL logic to build the necessary tables that support the analysis queries.
