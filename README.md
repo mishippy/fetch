@@ -9,7 +9,7 @@ In this repo, you will find the requested files for the Fetch Rewards Analytics 
 4. Write a short email or Slack message to the business stakeholder
 
 ## Outputs
-1. See [Fetch_DB_ERD.pdf](../main/Fetch_DB_ERD.pdf)
+1. Data model diagram: [Fetch_DB_ERD.pdf](../main/Fetch_DB_ERD.pdf)
 
 
 ## Notes
